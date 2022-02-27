@@ -1,4 +1,4 @@
-baseURL = 'https://www.eldm.net'
+baseURL = 'https://yellow-limit-4629.on.fleek.co/'
 languageCode = 'en-us'
 title = 'Eldms Blog'
 theme = 'hugo-theme-tokiwa'
