@@ -1,0 +1,24 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Eldms Blog'
+theme = 'hugo-theme-tokiwa'
+
+[menu]
+# Shown in the side menu.
+  [[menu.main]]
+    name = "AboutMe"
+    weight = 1
+    identifier = "posts"
+    url = "/posts/Intro"
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+
+[social]
+reactjs = "https://yellow-wind-7477.on.fleek.co/"
+vuejs = "https://crimson-cake-5360.on.fleek.co/"
+linkedin = "https://www.linkedin.com/in/ethan-moore-eldm/"
+github="https://github.com/eldm-ethanmoore"
+twitter="https://twitter.com/eldm2350"
+mail = "mailto:eldm2350@protonmail.com"
