@@ -14,6 +14,15 @@ theme = 'hugo-theme-tokiwa'
     name = "Tags"
     url = "/tags/"
     weight = 2
+  [[menu.main]]
+    name = "Android Project Presentation PPTX"
+    url = "https://storageapi.fleek.co/1200202c-a1be-4b4b-83fe-43b3418e21b8-bucket/Android_Project_Presentation-PPTX.pptx"
+    weight = 3
+  [[menu.main]]
+    name = "Android Project Presentation PDF"
+    url = "https://storageapi.fleek.co/1200202c-a1be-4b4b-83fe-43b3418e21b8-bucket/Android_Project_Presentation.pdf"
+    weight = 4
+
 
 [social]
 reactjs = "https://yellow-wind-7477.on.fleek.co/"
