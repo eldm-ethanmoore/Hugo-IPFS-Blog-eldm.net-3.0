@@ -14,14 +14,6 @@ theme = 'hugo-theme-tokiwa'
     name = "Tags"
     url = "/tags/"
     weight = 2
-  [[menu.main]]
-    name = "CS 381 Meta Signs Networks Presentation PPTX"
-    url = "https://storageapi.fleek.co/1200202c-a1be-4b4b-83fe-43b3418e21b8-bucket/MetaSignsCS381.pptx"
-    weight = 3
-  [[menu.main]]
-    name = "CS 372 Meta Signs Mobile App Presentation PPTX"
-    url = "https://storageapi.fleek.co/1200202c-a1be-4b4b-83fe-43b3418e21b8-bucket/MetaSignsMobileCS372.pptx"
-    weight = 3
 
 [social]
 reactjs = "https://yellow-wind-7477.on.fleek.co/"
