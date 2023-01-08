@@ -4,21 +4,20 @@ title = 'Eldms Blog'
 theme = 'hugo-theme-tokiwa'
 
 [menu]
-# Shown in the side menu.
   [[menu.main]]
-    name = "AboutMe"
+    name = 'AboutMe'
     weight = 1
-    identifier = "posts"
-    url = "/posts/Intro"
+    identifier = 'posts'
+    url = '/posts/Intro'
   [[menu.main]]
-    name = "Tags"
-    url = "/tags/"
+    name = 'Tags'
     weight = 2
+    url = '/tags/'
 
 [social]
-reactjs = "https://yellow-wind-7477.on.fleek.co/"
-vuejs = "https://crimson-cake-5360.on.fleek.co/"
-linkedin = "https://www.linkedin.com/in/ethan-moore-eldm/"
-github="https://github.com/eldm-ethanmoore"
-twitter="https://twitter.com/eldm2350"
-mail = "mailto:eldm2350@protonmail.com"
+reactjs = 'https://yellow-wind-7477.on.fleek.co/'
+vuejs = 'https://crimson-cake-5360.on.fleek.co/'
+linkedin = 'https://www.linkedin.com/in/ethan-moore-eldm/'
+github = 'https://github.com/eldm-ethanmoore'
+twitter = 'https://twitter.com/eldm2350'
+mail = 'mailto:eldm2350@protonmail.com'
