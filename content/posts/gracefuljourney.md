@@ -1,11 +1,11 @@
 +++
-title = "gracefuljourney.xyz"
+title = "Graceful Journey"
 date = 2022-02-26T03:56:05Z
 author = "eldm"
 authorTwitter = "eldm2350" #do not include @
 cover = ""
-tags = ["General", "Eldm"]
-keywords = ["Computer Science", "Learning", "eldm"]
+tags = ["General", "Eldm", "GracefulJourney"]
+keywords = ["Computer Science", "Learning", "eldm", "GracefulJourney"]
 description = "Graceful Journey Introduction."
 showFullContent = false
 readingTime = false
