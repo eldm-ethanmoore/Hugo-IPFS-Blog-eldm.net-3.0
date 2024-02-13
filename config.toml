@@ -5,22 +5,12 @@ theme = 'hugo-theme-tokiwa'
 
 [menu]
   [[menu.main]]
-    name = 'GracefulJourney'
-    weight = 1
-    identifier = 'gracefuljourney'
-    url = '/posts/gracefuljourney/'
-  [[menu.main]]
-    name = 'BepplesBuzzingDumpster'
-    weight = 2
-    identifier = 'bepplesbuzzingdumpster'
-    url = '/posts/bepplesbuzzingdumpster1/'
-  [[menu.main]]
     name = 'Tags'
-    weight = 3
+    weight = 1
     url = '/tags/'
   [[menu.main]]
     name = 'AboutMe'
-    weight = 4
+    weight = 2
     identifier = 'posts'
     url = '/posts/Intro'
     

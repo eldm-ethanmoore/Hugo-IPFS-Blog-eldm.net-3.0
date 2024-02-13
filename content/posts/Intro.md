@@ -13,7 +13,7 @@ readingTime = false
 
 # Intro
 
-I am proficient in ████, Py████, Javascript, and Solidity. I have experience in Bash, ████, C++/C#, and Rust. I also have experience in HTML/JSX, CSS, Markdown, YAML, and LATEX. I hope to continue to learn Haskell, █████, and nix expressions in the future.
+I am proficient in Python, Javascript, and Solidity. I have experience in Bash and C++/C#. I also have experience in HTML/JSX, CSS, Markdown, YAML, and LATEX. I hope to continue to learn Haskell and nix expressions in the future.
 
 I am interested in blockchain economics and smart contract development. I am also interested in furthering my knowledge of blockchain parsers, edge computing, and real project management. I enjoy shell scripting, customizing my environment, and automating mundane routines ( Check out my ScriptAndConfigs github repo. ).
 
