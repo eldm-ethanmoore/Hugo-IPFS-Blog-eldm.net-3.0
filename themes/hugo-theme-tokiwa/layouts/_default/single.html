@@ -1,5 +1,23 @@
 {{ define "header" }}
 {{ partial "page-header.html" . }}
+<div id="auth-section">
+	<button onclick="authenticate()" id="auth-button" style="display: none;">Connect Wallet</button>
+	<button onclick="handleSignOut()" id="signout-button" style="display: none;">Sign Out</button>
+	<p id="user-address" style="display: none;"></p>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', (event) => {
+	if (isUserSignedIn()) {
+		const userData = getUserData();
+		document.getElementById('user-address').textContent = `Connected: ${userData.profile.stxAddress.mainnet}`;
+		document.getElementById('user-address').style.display = 'block';
+		document.getElementById('signout-button').style.display = 'block';
+	} else {
+		document.getElementById('auth-button').style.display = 'block';
+	}
+});
+</script>
 {{ end }}
 
 {{ define "main" }}

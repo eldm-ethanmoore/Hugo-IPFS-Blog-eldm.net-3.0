@@ -2,3 +2,7 @@ run = "sh run.sh"
 
 [nix]
 channel = "stable-21_11"
+
+[[ports]]
+localPort = 443
+externalPort = 80
